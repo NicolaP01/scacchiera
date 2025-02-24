@@ -1,0 +1,19 @@
+.square {
+    width: 100px;
+    height: 100px;
+    display: table-cell;
+    border: 1px solid black;
+}
+
+.white {
+    background-color: white;
+    border-color: black;
+}
+
+.black {
+    background-color: black;
+}
+
+.square:hover {
+    background-color: red;
+}
