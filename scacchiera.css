@@ -10,10 +10,39 @@
     border-color: black;
 }
 
+.white-yellow {
+    background-color: yellow;
+    border-color: black;
+}
+
 .black {
     background-color: black;
 }
 
+.black-orange{
+    background-color: orange;
+    border-color: black;
+}
+
 .square:hover {
     background-color: red;
+}
+
+.colorw{
+    border-color: transparent;
+    background-color: transparent;
+    height: 100px;
+    width: 100px;
+}
+
+.colorb{
+    background-color: transparent;
+    border-color: transparent;
+    height: 100px;
+    width: 100px;
+}
+
+.message{
+    text-align: center;
+    color: gray;
 }
